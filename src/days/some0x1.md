@@ -1,0 +1,9 @@
+# some0x1[mdbook使用]
+
+---
+> ### 记录mdbook的使用日常
+---
+
+### readme==index
+     当创建readme.md 与 index.md 时 ，这两个文件均会被渲染成index.html 
+     故，这样一个常识我竟然忘记了。真真是大意了 w(ﾟДﾟ)w 
